@@ -1,0 +1,58 @@
+CASIO Watch — Product Promo Webpage
+
+A modern, minimal product showcase inspired by classic CASIO branding. This project focuses on clean layout structure, responsive styling, and subtle UI interactions. All visual assets were created and refined in Adobe Photoshop, then implemented using HTML, CSS, and JavaScript.
+
+🛠️ Tech Stack
+HTML5 — semantic structure
+
+CSS3 — layout, styling, responsive design
+
+JavaScript — interactivity and UI behavior
+
+Photoshop — custom product poster and image editing
+
+✨ Features
+Clean, modern product layout
+
+Responsive design for desktop and mobile
+
+Smooth hover interactions
+
+Custom product poster designed in Photoshop
+
+Balanced typography and spacing
+
+Lightweight and fast (no backend required)
+
+Code
+/screenshots
+  ├── desktop-view.png
+  ├── mobile-view.png
+  └── poster-closeup.png
+📁 Project Structure
+Code
+/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
+    ├── casio-poster.jpg
+    └── assets...
+🚀 How to Run
+No setup required.
+Just open index.html in any browser.
+
+🎯 Purpose
+This project was created as part of a school assignment to demonstrate:
+
+Front‑end development fundamentals
+
+Ability to translate design concepts into code
+
+UI/UX awareness
+
+Clean, modern visual presentation
+
+Perfect for showcasing front‑end skills in a co‑op portfolio.
