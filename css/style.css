@@ -513,7 +513,11 @@ button[type="submit"]:hover {
 }
 
 /* ========== RESPONSIVE BREAKPOINTS ========== */
-@media (max-width: 600px) {
+@media (min-width:480px)and(max-width: 780px) {
+    .logo img{
+        
+    }
+
     nav ul {
         flex-direction: column;
         gap: 10px;
@@ -528,10 +532,5 @@ button[type="submit"]:hover {
     }
 }
 
-@media (max-width: 520px) {
-    .contact {
-        margin: 40px 16px 80px;
-        padding: 0 16px;
-    }
-}
+
 
